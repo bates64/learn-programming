@@ -42,7 +42,7 @@ If you learn accessible HTML you'll be better than 90% of people who build websi
 
 Read [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/preface.md).
 
-## 5. Scratch derivatives
+## Scratch derivatives
 
 - [ ] Try [tosh](https://tosh.blob.codes/app/) (text-based Scratch)
 - [ ] Try [_Snap!_](https://snap.berkeley.edu/snap/snap.html) (Scratch with data structures and functions)
