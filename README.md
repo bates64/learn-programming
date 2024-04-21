@@ -38,6 +38,12 @@ If you learn accessible HTML you'll be better than 90% of people who build websi
 
 ## CSS
 
+CSS stands for cascading style sheets. I also like to think the "C" stands for "creative".
+
+https://web.dev/learn/css
+
+Once you're happy, try out https://tailwindcss.com/ too!
+
 ## JavaScript
 
 Read [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/preface.md).
