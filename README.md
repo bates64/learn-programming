@@ -18,6 +18,7 @@ The amount of stuff to learn might be a bit daunting. Don't worry though - you c
 
 - [ ] Make a few projects on Scratch
 - [ ] [See the skill ceiling](https://scratch.mit.edu/projects/113321949/)
+- [ ] Make friends on the [Advanced Topics forum](https://scratch.mit.edu/discuss/31/)
 - [ ] Feel limited by the limitations of Scratch
 
 Remember: limitation breeds creativity!
